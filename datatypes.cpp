@@ -15,5 +15,11 @@ int32_t main()
 
     bool d;
     cout<<"Size of bool "<<sizeof(d)<<endl;
+
+    short int si;
+    long int li;
+    cout<<"Size of short int "<<sizeof(si)<<endl;
+    cout<<"Size of long int "<<sizeof(li)<<endl;
+    
     return 0;
 }
